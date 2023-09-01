@@ -14,5 +14,11 @@ https://github.com/edwardhan925192/Project3/assets/127165920/3e701dc2-b622-4221-
 python 'times_traintest.py' --train_path 'path.csv' --val_path 'path.csv' --test_path 'path.csv' --lr 0.001 --epochs 1 --batch_sizes 2
 
 # References 
-- Haixu Wu, Tengge Hu, Yong Liu, Hang Zhou, Jianmin Wang, Mingsheng Long. **TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis**. In: International Conference on Learning Representations (ICLR), 2023.
+- Haixu Wu, Tengge Hu, Yong Liu, Hang Zhou, Jianmin Wang, Mingsheng Long. **TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis**. In: International Conference on Learning Representations (ICLR), 2023.  
+- @inproceedings{wu2023timesnet,
+  title={TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis},
+  author={Haixu Wu and Tengge Hu and Yong Liu and Hang Zhou and Jianmin Wang and Mingsheng Long},
+  booktitle={International Conference on Learning Representations},
+  year={2023},
+}
 
