@@ -1,5 +1,5 @@
 # Project3
-**Main goal: Predicting movement of double pendulum using TimsNet model.**  
+**Main goal: Predicting movement of double pendulum using TimesNet model.**  
 The dynamics of a double pendulum, inherently chaotic in nature, have historically posed challenges for precise analytical prediction using conventional mathematical algorithms. To address this complex system's unpredictability, we turned to a state-of-the-art deep learning model, 'TimesNet', designed specifically for time series forecasting and intricate pattern recognition. By employing 'TimesNet', our goal was to unravel the intricate dynamics and thereby accurately predict the motion of the double pendulum. This innovative approach aims to bridge the gap between traditional physics-based models and the potential of modern machine learning techniques.
 
 # TimesNet 
